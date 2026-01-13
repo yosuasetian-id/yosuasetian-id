@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=FF8800&center=true&vCenter=true&width=500&height=70&lines=Hi+There!;I'm+Yosua+Setia+Nugraha!;You+can+call+me+Joshua+or+Yosua!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&height=70&lines=Hi+There!;I'm+Yosua+Setia+Nugraha!;You+can+call+me+Joshua+or+Yosua!" />
 </h1>
 
 <h3 align="center">
