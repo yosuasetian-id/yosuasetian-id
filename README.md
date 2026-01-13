@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <img align="right"
-src="https://visitor-badge.laobi.icu/badge?page_id=yosuasetian-id.yosuasetian-id&left_color=white&right_color=blue&left_text=Visitors" />
+src="https://visitor-badge.laobi.icu/badge?page_id=yosuasetian-id.yosuasetian-id&left_color=black&right_color=blue&left_text=Visitors" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=0090FF&center=true&vCenter=true&width=800&height=70&lines=Hi+There!;I'm+Yosua+Setia+Nugraha!;You+can+call+me+Joshua+or+Yosua!" />
