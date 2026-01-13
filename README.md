@@ -41,7 +41,9 @@ Here are some ideas to get you started:
   -->
 </div>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpxdGYwa2Flc3luZ2d3aGZmZW5rYjhybmh0MmVwNmw5aTg4YTc5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="300" />
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 
 <hr/>
 
