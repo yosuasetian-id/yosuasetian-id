@@ -62,3 +62,13 @@ Here are some ideas to get you started:
 <br/>
 
 <hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+
+  <br/>
+
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yosuasetian-id/yosuasetian-id/output/github-contribution-grid-snake.svg" />
+
+  <br/><br/>
+</div>
