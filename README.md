@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-  <img src="banner.png" width="70%" />
+  <img src="banner.jpg" width="100%" />
 </p>
 
 <hr/>
