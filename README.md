@@ -41,8 +41,10 @@ Here are some ideas to get you started:
   -->
 </div>
 
+<br/>
+
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="banner.png" width="70%" />
 </p>
 
 <hr/>
